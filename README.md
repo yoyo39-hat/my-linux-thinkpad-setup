@@ -3,8 +3,7 @@
 
 SO, I always wanted a laptop to tinker with Linux, i had one but it was crappy as hell, so i disassembled it and harvested its components...
 
-## Overview
-
+## What will be here ?
 My hyprland dotfiles, iso's, themes, apps, wallpapers, basically all the jazz...
 
 ALSO I LOVE HATSUNE MIKU!!
